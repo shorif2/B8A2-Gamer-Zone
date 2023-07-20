@@ -77,7 +77,7 @@
     }
 .footer-item{
     flex-wrap: wrap;
-    gap: 40px;
+    gap: 60px;
     justify-content: center;
 }
 .social-icon{
@@ -87,7 +87,7 @@
 }
 .footer-item2{
     flex-wrap: wrap;
-    gap: 40px;
+    gap: 60px;
     justify-content: center;
 }
 .copy-right{
