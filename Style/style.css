@@ -16,11 +16,13 @@ background-clip: text;
     color: white;
     
 }
+
 .pic:hover{
     border: 5px solid #F948B2;
     border-radius: 16px;
     cursor: pointer;
     opacity: 0.5;
+    
 }
 .social-icon{
     border-radius: 8px;
