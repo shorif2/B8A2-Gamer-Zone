@@ -56,13 +56,14 @@
     }
     .catagories{
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
+        flex-wrap: wrap;
         margin-top: 50px;
         padding: 0;
         width: auto;
     }
     .box-one{
-        width: max-content;
+        width: auto;
         padding-right: 10px;
         height: 100%;
         margin: 10px;
@@ -74,6 +75,9 @@
     footer{
         display: flex;
         flex-wrap: wrap;
+    }
+    .footer-icon{
+        padding: 55px 0;
     }
 .footer-item{
     flex-wrap: wrap;
