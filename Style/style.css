@@ -210,6 +210,11 @@ padding-top: 24px;
     gap: 27px;
     background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
 }
+.box-one:hover {
+    border: 2px solid #F948B2;
+    color: #F948B2;
+
+}
 .box-one{
     display: flex;
     align-items: center;
