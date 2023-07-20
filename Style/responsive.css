@@ -85,6 +85,7 @@
 .footer-item{
     flex-wrap: wrap;
     gap: 60px;
+    row-gap: 45px;
     justify-content: center;
 }
 .social-icon{
@@ -95,6 +96,7 @@
 .footer-item2{
     flex-wrap: wrap;
     gap: 60px;
+    row-gap: 45px;
     justify-content: center;
 }
 .copy-right{

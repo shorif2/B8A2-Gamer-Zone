@@ -164,6 +164,8 @@ ul {
 }
 .video-box1{
     width: 342px;
+    height: auto;
+    align-items: center;
 }
 .image-text{
     width: 342px;
@@ -171,6 +173,9 @@ ul {
 font-size: 20px;
 font-weight: 500;
 }
+
+
+/* Play Section */
 .play-section{
     display: flex;
     justify-content: space-between;
