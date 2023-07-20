@@ -23,6 +23,9 @@
     .hero-des {
         padding: 0;
     }
+    .hero-title2{
+        font-size: 80px;
+    }
     .hero-image img{
         width: 100%;
     }
